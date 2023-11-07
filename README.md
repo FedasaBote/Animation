@@ -1,16 +1,27 @@
-# animation
+## Flutter Trip Application Design - Day 2
 
-A new Flutter project.
+```dart
+class Day2 extends Flutter100DaysOfCode {
+  video() {
+    return {
+      "title": "Flutter Trip Application Design",
+      "description": "Let's work with PageView and add some animation.",
+      "day": 2,
+      "videoLink": "https://youtu.be/uqm6U5_bcH0"
+    }
+  }
+}
+```
 
-## Getting Started
+## Development Setup
 
-This project is a starting point for a Flutter application.
+Clone the repository and run the following commands:
 
-A few resources to get you started if this is your first Flutter project:
+```
+flutter pub get
+flutter run
+```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## ScreenShot
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="assets/screenshot/one.png" height="500em" /><img src="assets/screenshot/two.png" height="500em" /><img src="assets/screenshot/three.png" height="500em" />
